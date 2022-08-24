@@ -1,0 +1,57 @@
+@import url("./reset.css");
+
+:root{
+    --primary: aqua;
+}
+
+.bg-primary{
+    background-color: var(--primary);
+}
+
+.text-purple{
+    color: purple
+}
+
+.text-white{
+    color: whitesmoke
+}
+
+.d-flex{
+    display: flex;
+}
+
+
+
+/* Navigation Bar */
+.nav-default{
+    color: white;
+    text-align: right;
+
+}
+
+.nav-default>ul>li{
+    padding: 8px 10px;
+    font-size: 40px;
+    
+}
+
+.nav-default>ul>li>a:hover{
+   box-shadow: 0 4px 10px black;
+   font-size: 3.2rem;
+}
+
+
+.no-decoration{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/* How to make nav bar text white? */
+/* How to align nav bar to the right? */
