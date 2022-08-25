@@ -71,6 +71,30 @@ section {
     color: white;
 }
 
+.card-0 {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 0 0 300px;
+  }
+
+.card {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 0 0 600px;
+  }
+
+  .card-1 {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 0 0 400px;
+  }
+
 
 .text-white{
     color: white;
@@ -139,9 +163,12 @@ max-height: 100%;
 
 
 
-  /* How to make nav bar text white? */
-/* How to align nav bar to the right? */
+
+
 /* How to scroll to my portfolio when I click on Portfolio */
 /* Add contact me funtion */
+
+  /* How to make nav bar text white? */
+  /* How to align nav bar to the right? */
 /* Link the text at the bottom of the page to github */
 /* Link to Linkedin when you click on my image */
